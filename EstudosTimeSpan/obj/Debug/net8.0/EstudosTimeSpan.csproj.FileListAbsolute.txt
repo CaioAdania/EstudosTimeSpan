@@ -12,3 +12,4 @@ C:\Users\caioa\Documents\Caio\VsCommunity\EstudosTimeSpan\EstudosTimeSpan\obj\De
 C:\Users\caioa\Documents\Caio\VsCommunity\EstudosTimeSpan\EstudosTimeSpan\obj\Debug\net8.0\EstudosTimeSpan.pdb
 C:\Users\caioa\Documents\Caio\VsCommunity\EstudosTimeSpan\EstudosTimeSpan\obj\Debug\net8.0\EstudosTimeSpan.genruntimeconfig.cache
 C:\Users\caioa\Documents\Caio\VsCommunity\EstudosTimeSpan\EstudosTimeSpan\obj\Debug\net8.0\ref\EstudosTimeSpan.dll
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosTimeSpan\EstudosTimeSpan\obj\Debug\net8.0\EstudosTimeSpan.sourcelink.json
