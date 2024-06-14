@@ -1,0 +1,14 @@
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosTimeSpan\EstudosTimeSpan\bin\Debug\net8.0\EstudosTimeSpan.exe
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosTimeSpan\EstudosTimeSpan\bin\Debug\net8.0\EstudosTimeSpan.deps.json
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosTimeSpan\EstudosTimeSpan\bin\Debug\net8.0\EstudosTimeSpan.runtimeconfig.json
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosTimeSpan\EstudosTimeSpan\bin\Debug\net8.0\EstudosTimeSpan.dll
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosTimeSpan\EstudosTimeSpan\bin\Debug\net8.0\EstudosTimeSpan.pdb
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosTimeSpan\EstudosTimeSpan\obj\Debug\net8.0\EstudosTimeSpan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosTimeSpan\EstudosTimeSpan\obj\Debug\net8.0\EstudosTimeSpan.AssemblyInfoInputs.cache
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosTimeSpan\EstudosTimeSpan\obj\Debug\net8.0\EstudosTimeSpan.AssemblyInfo.cs
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosTimeSpan\EstudosTimeSpan\obj\Debug\net8.0\EstudosTimeSpan.csproj.CoreCompileInputs.cache
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosTimeSpan\EstudosTimeSpan\obj\Debug\net8.0\EstudosTimeSpan.dll
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosTimeSpan\EstudosTimeSpan\obj\Debug\net8.0\refint\EstudosTimeSpan.dll
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosTimeSpan\EstudosTimeSpan\obj\Debug\net8.0\EstudosTimeSpan.pdb
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosTimeSpan\EstudosTimeSpan\obj\Debug\net8.0\EstudosTimeSpan.genruntimeconfig.cache
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosTimeSpan\EstudosTimeSpan\obj\Debug\net8.0\ref\EstudosTimeSpan.dll
